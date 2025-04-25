@@ -3240,6 +3240,12 @@ var cnames_active = {
   "tead": "teadjs.github.io",
   "tech-human-id": "abhisekp.github.io/tech-human-id",
   "techthinker": "tech-thinker.github.io",
+    "teckrise": {
+    "owner": "your-github-username",
+    "repo": "your-repo-name",
+    "branch": "main"
+  },
+
   "techxuexi": "techxuexi.netlify.app",
   "techy": "hosting.gitbook.com",
   "teddy": "alias.zeit.co", // noCF
