@@ -3241,10 +3241,11 @@ var cnames_active = {
   "tech-human-id": "abhisekp.github.io/tech-human-id",
   "techthinker": "tech-thinker.github.io",
     "teckrise": {
-    "owner": "your-github-username",
-    "repo": "your-repo-name",
+    "owner": "gwacuga",
+    "repo": "teckrise",
     "branch": "main"
   },
+
 
   "techxuexi": "techxuexi.netlify.app",
   "techy": "hosting.gitbook.com",
